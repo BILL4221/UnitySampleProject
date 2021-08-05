@@ -16,6 +16,7 @@ namespace Runnex.TestProject
         {
             currentAngle = 0;
         }
+
         private void Update()
         {
             currentAngle += angularSpeed;
